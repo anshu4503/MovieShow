@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎬 QuickShow — Movie Ticket Booking Platform
 
 A full-stack movie ticket booking web application where users can explore movies, check showtimes, select seats, and book tickets online. QuickShow provides a smooth booking experience with a modern and responsive interface.
@@ -169,3 +170,6 @@ If this project is based on an existing open-source repository, retain the origi
 ---
 
 ⭐ If you find this project useful, consider giving the repository a star!
+=======
+# MovieShow
+>>>>>>> d6d23f86981ab206e39fc4f0088eea8587a82b93
